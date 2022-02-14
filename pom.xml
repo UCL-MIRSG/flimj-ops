@@ -95,7 +95,6 @@
 
 		<flimlib.version>2.1.1</flimlib.version>
 		<gson.version>2.8.6</gson.version>
-		<scijava.platform.bits>arm64</scijava.platform.bits>
 	</properties>
 
 	<dependencies>
